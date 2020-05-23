@@ -1,2 +1,3 @@
 languageCode = "en-us"
 title = "My New Netlify Victor Hugo Site"
+href="faizulho/one-click-hugo-cms/config.yml" type="text/yaml" rel="cms-config-url"
